@@ -1,5 +1,5 @@
 # Stock-Insider(Front-End) 
-[수집한 거래정보를 차트와 로 시각화한 웹페이지] - (Vue[router, axios, vuex] + Google Chart + Vuetify)
+[수집한 거래정보를 차트와 그래프로 시각화한 웹페이지] - (Vue[router, axios, vuex] + Google Chart + Vuetify)
 
 Back-End(https://github.com/walker0625/Stock_Insider-Back_End) 에서 매일 수집한 거래정보를
 
