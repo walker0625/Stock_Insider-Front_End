@@ -1,7 +1,7 @@
 # Stock-Insider(Front-End) 
 [수집한 거래정보를 Chart와 Graph로 시각화한 웹페이지] - (Vue[router, axios, vuex] + Google Chart + Vuetify)
 
-Back-End(https://github.com/walker0625/Stock_Insider-Back_End)에서 수집한 거래정보를
+Back-End(https://github.com/walker0625/Stock_Insider-Back_End) 에서 수집한 거래정보를
 
 axios로 API Call하여 받아오고, 받아온 Data를 vuex의 전역 저장소로 관리합니다.
 
