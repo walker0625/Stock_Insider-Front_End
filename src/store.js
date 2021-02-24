@@ -29,7 +29,7 @@ export const store = new Vuex.Store({
     },
 
     setSelectedTraderInfos: (state, payload) => {
-      state.selectedTraderInfos = payload;
+      state.selectedTraderInfos = payload.reverse();
     },
   },
 
