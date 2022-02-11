@@ -9,7 +9,5 @@ axios로 API Call하여 받아오고, 받아온 Data를 vuex의 전역 저장소
 
 Google Chart(materialChart, pieChart, columnChart, lineChart)로 Data를 시각화합니다.
 
-(http://3.34.172.205 으로 접속하시면 AWS(EC2)로 운영 중인 웹페이지를 확인 하실 수 있습니다.)
-
 *관련 피드백은 언제나 환영합니다! (jeonminwoo0625@gmail.com)
 
